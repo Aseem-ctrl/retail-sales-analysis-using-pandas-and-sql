@@ -89,19 +89,19 @@ Successfully built a complete analytics pipeline from data extraction to busines
 ## Screenshots
 
 ### Dataset Preview
-![Dataset preview](screenshots/01_Dataset_preview.png)
+![Dataset preview](screenshot/01_Dataset_preview.png)
 
 ### Data Cleaning
-![Data Cleaning](screenshots/02_cleaning.png)
+![Data Cleaning](screenshot/02_cleaning.png)
 
 ### Date Conversion
-![Date Conversion](screenshots/03_datetime.png)
+![Date Conversion](screenshot/03_datetime.png)
 
 ### Profit Growth Analysis
-![Profit Growth](screenshots/04_profit_growth.png)
+![Profit Growth](screenshot/04_profit_growth.png)
 
 ### Top 5 Products by Region
-![Top Products](screenshots/05_top5_products.png)
+![Top Products](screenshot/05_top5_products.png)
 
 ### Best Sales Month by Category
-![Best Month](screenshots/06_best_month.png)
+![Best Month](screenshot/06_best_month.png)

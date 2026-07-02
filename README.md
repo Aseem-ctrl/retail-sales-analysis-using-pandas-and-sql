@@ -85,23 +85,19 @@ Analyzed profit contribution across products and categories.
 Successfully built a complete analytics pipeline from data extraction to business insight generation using Python and SQL.
 
 
-
 ## Screenshots
 
-### Dataset Preview
-![Dataset preview](screenshot/01_Dataset_preview.png)
+<p align="center">
+  <img src="screenshot/01_Dataset_preview.png" width="45%">
+  <img src="screenshot/02_cleaning.png" width="45%">
+</p>
 
-### Data Cleaning
-![Data Cleaning](screenshot/02_cleaning.png)
+<p align="center">
+  <img src="screenshot/03_datetime.png" width="45%">
+  <img src="screenshot/04_top5_products.png" width="45%">
+</p>
 
-### Date Conversion
-![Date Conversion](screenshot/03_datetime.png)
-
-### Profit Growth Analysis
-![Profit Growth](screenshot/04_top5_products.png)
-
-### Top 5 Products by Region
-![Top Products](screenshot/05_best_month.png)
-
-### Best Sales Month by Category
-![Best Month](screenshot/06_profit_growth.png)
+<p align="center">
+  <img src="screenshot/05_best_month.png" width="45%">
+  <img src="screenshot/06_profit_growth.png" width="45%">
+</p>

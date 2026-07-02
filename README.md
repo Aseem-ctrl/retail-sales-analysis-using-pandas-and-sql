@@ -98,10 +98,10 @@ Successfully built a complete analytics pipeline from data extraction to busines
 ![Date Conversion](screenshot/03_datetime.png)
 
 ### Profit Growth Analysis
-![Profit Growth](screenshot/04_profit_growth.png)
+![Profit Growth](screenshot/04_top5_products.png)
 
 ### Top 5 Products by Region
-![Top Products](screenshot/05_top5_products.png)
+![Top Products](screenshot/05_best_month.png)
 
 ### Best Sales Month by Category
-![Best Month](screenshot/06_best_month.png)
+![Best Month](screenshot/06_profit_growth.png)

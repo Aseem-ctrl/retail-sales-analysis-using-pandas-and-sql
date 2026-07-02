@@ -87,6 +87,8 @@ Successfully built a complete analytics pipeline from data extraction to busines
 
 ## Screenshots
 
+### Pandas Data Cleaning & Transformation
+
 <p align="center">
   <img src="screenshot/01_Dataset_preview.png" width="45%">
   <img src="screenshot/02_cleaning.png" width="45%">
@@ -94,10 +96,15 @@ Successfully built a complete analytics pipeline from data extraction to busines
 
 <p align="center">
   <img src="screenshot/03_datetime.png" width="45%">
+</p>
+
+### SQL Business Analysis
+
+<p align="center">
   <img src="screenshot/04_top5_products.png" width="45%">
+  <img src="screenshot/05_best_month.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="screenshot/05_best_month.png" width="45%">
   <img src="screenshot/06_profit_growth.png" width="45%">
 </p>

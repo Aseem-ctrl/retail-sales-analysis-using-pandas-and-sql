@@ -87,24 +87,42 @@ Successfully built a complete analytics pipeline from data extraction to busines
 
 ## Screenshots
 
-### Pandas Data Cleaning & Transformation
-
+### Dataset Preview
 <p align="center">
-  <img src="screenshot/01_Dataset_preview.png" width="45%">
-  <img src="screenshot/02_cleaning.png" width="45%">
+  <img src="screenshot/01_Dataset_preview.png" width="900">
 </p>
 
+---
+
+### Data Cleaning
 <p align="center">
-  <img src="screenshot/03_datetime.png" width="45%">
+  <img src="screenshot/02_cleaning.png" width="900">
 </p>
 
-### SQL Business Analysis
+---
 
+### Date Conversion
 <p align="center">
-  <img src="screenshot/04_top5_products.png" width="45%">
-  <img src="screenshot/05_best_month.png" width="45%">
+  <img src="screenshot/03_datetime.png" width="900">
 </p>
 
+---
+
+### Top 5 Products by Region
 <p align="center">
-  <img src="screenshot/06_profit_growth.png" width="45%">
+  <img src="screenshot/04_top5_products.png" width="900">
+</p>
+
+---
+
+### Best Sales Month by Category
+<p align="center">
+  <img src="screenshot/05_best_month.png" width="900">
+</p>
+
+---
+
+### Profit Growth Analysis
+<p align="center">
+  <img src="screenshot/06_profit_growth.png" width="900">
 </p>
